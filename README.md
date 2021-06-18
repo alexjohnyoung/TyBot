@@ -47,6 +47,8 @@ Lua bot made for the Garry's Mod gamemode Trouble in Terrorist Town
 ## Misc
 #### Emergency Mode
 ##### Variable used to determine whether or not it should attack players in close proximity who have recently lost ammo after losing health
+#### Attempt Unstuck
+##### TyBot can attempt to unstuck itself if found in the same position by moving to nearby doors / mesh / random button press
 #### Setting Saving
 ##### All settings are saved to data/tyb/settings.txt to be used on load in JSON format
 #### Enable Announce

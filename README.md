@@ -33,8 +33,8 @@ Lua bot made for the Garry's Mod gamemode Trouble in Terrorist Town
 ---
 ## Mesh
 #### TyBot can create mesh data dynamically by observing other player movement, or statically from a mesh file (located in data/tyb/mapdata)
-##### - If there is no mesh file for the current map, the meshmove command will be added to the command list after 100 valid player positions are recorded and if **Load Mesh Command** is enabled
-##### - Statically, mesh files must be named after the map and include a JSON stored table of Vectors around the map
+##### If there is no mesh file for the current map, the meshmove command will be added to the command list after 100 valid player positions are recorded and if **Load Mesh Command** is enabled
+##### Statically, mesh files must be named after the map and include a JSON stored table of Vectors around the map
 ##### If a mesh file for the current map exists, TyBot will use that mesh data and the meshmove command will be added to the command list
 #### Included is a dump_waypoints.lua file for this purpose
 ---

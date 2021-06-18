@@ -1,5 +1,4 @@
-# TyBot
-Lua bot made for the Garry's Mod gamemode Trouble in Terrorist Town
+TyBot is a Lua bot made for the Garry's Mod gamemode Trouble in Terrorist Town
 ![Menu](https://i.ibb.co/m4yGRWQ/tybconfig-menu.png)
 ![Config](https://i.ibb.co/R0YF5PN/tybconfig-config.png)
 

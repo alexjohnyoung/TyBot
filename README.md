@@ -48,7 +48,7 @@ Lua bot made for the Garry's Mod gamemode Trouble in Terrorist Town
 #### Emergency Mode
 ##### Variable used to determine whether or not it should attack players in close proximity who have recently lost ammo after losing health
 #### Setting Saving
-##### All settings are saved to data/tyb/settings.txt to be used on load
+##### All settings are saved to data/tyb/settings.txt to be used on load in JSON format
 #### Enable Announce
 ##### Variable used to determine whether or not the current command and runtime should output in chat
 #### Block Screen Capture
